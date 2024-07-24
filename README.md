@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErikKaffehr
-- 👀 I’m interest in photography, history, reactor physics and C++ programming
+- 👀 I’m interested in photography, history, reactor physics and C++ programming
 - 
 - 📫 ekaffehr@gmail.com
 - 😄 Pronouns: ...
